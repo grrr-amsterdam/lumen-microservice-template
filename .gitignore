@@ -7,5 +7,3 @@ Homestead.yaml
 .env.production
 /node_modules
 /.serverless
-
-/storage/app/*
