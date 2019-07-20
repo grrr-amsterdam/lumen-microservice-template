@@ -2,8 +2,6 @@
 
 This is a template repo for microservices running on AWS Lambda.
 
-Build on [Lumen](https://lumen.laravel.com), deployed using [Serverless framework](http://serverless.com/).
-
 ----------------------------------
 
 ## Installation
@@ -50,6 +48,6 @@ $ npx serverless deploy --stage production --env production
 
 Serverless will print the HTTP endpoints to the screen.
 
-## Project specifics
+## Stack
 
-- To be documented by you.
+Build on [Lumen](https://lumen.laravel.com), deployed using [Serverless framework](http://serverless.com/).
