@@ -6,10 +6,10 @@
     "type": "project",
     "require": {
         "php": ">=7.1.3",
+        "bref/bref": "^0.5.7",
         "grrr-amsterdam/garp-functional": "^3.0",
         "guzzlehttp/guzzle": "^6.3",
         "laravel/lumen-framework": "5.8.*",
-        "mnapoli/bref": "^0.3.8",
         "sentry/sentry-laravel": "^1.0",
         "vlucas/phpdotenv": "^3.3"
     },
