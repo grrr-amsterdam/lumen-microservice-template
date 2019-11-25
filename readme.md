@@ -1,5 +1,7 @@
 # Lumen microservice template
 
+**We recommend using [our Laravel microservice template](https://github.com/grrr-amsterdam/laravel-microservice-template). This repository is deprecated.**
+
 This is a template repo for microservices running on AWS Lambda.
 
 ----------------------------------
